@@ -1,0 +1,130 @@
+@media (min-width: 375px) and (max-width: 1440px) {
+   
+}
+
+
+body {
+    background-color:hsl(30, 54%, 90%);
+    font-size:11px;
+}
+
+.pagebody {
+    background-color: white;
+    border-radius:12px;
+    height:100%;
+    width:530px;
+    margin:auto;
+}
+
+.headsrc {
+    padding-top:15px;
+    border-top-left-radius:33px;
+    border-top-right-radius:33px;
+    border-bottom-left-radius:33px;
+    border-bottom-right-radius:33px;
+}
+
+.headtext {
+    font-size:25px;
+    font-weight:400px;
+    font-family: Young Serif;
+}
+
+.htext {
+    padding-left:24px;
+}
+
+.hsubtext {
+    font-family:Outfit;
+    font-size:11px;
+}
+
+.preptime {
+    background-color:hsl(30, 54%, 90%);
+    width:490px;
+    font-family: Outfit;
+    border-radius:8px;
+}
+
+.prephead {
+    padding-top:13px;
+    padding-left:22px;
+    font-size:14px;
+    font-weight:bold;
+    color:rgb(153, 60, 60)
+}
+
+.prepline {
+    line-height:2.1;
+}
+
+.preptext {
+    font-weight: bold;
+}
+
+.hingd {
+    color:rgb(153, 60, 60);
+    font-family:Young serif;
+}
+
+.ingdtext {
+    font-family: Outfit;
+    line-height:2.1
+}
+
+.hinstruct {
+    color:rgb(153, 60, 60);
+    font-family:Young serif;
+}
+
+.instructlist {
+    font-family:Outfit;
+    line-height:1.9;
+}
+
+.instructext {
+    font-weight:bold;
+}
+
+.tableline {
+    border:1px solid rgb(189, 176, 176);
+    width:480px;
+    border-top:0;
+    border-left: 0;
+    border-right:0;
+}
+
+.tableline2 {
+    border:1px solid rgb(189, 176, 176);
+    width:480px;
+    border-top:0;
+    border-left: 0;
+    border-right:0;
+}
+
+.hnutrition {
+    color:rgb(153, 60, 60);
+    font-family:Young serif;
+}
+
+.nuttext {
+    font-family:Outfit;
+    color:rgb(160, 154, 154);
+}
+
+.tablenut {
+    width:470px;
+    border-collapse:collapse;
+    border-color:white;
+}
+
+.tabtext {
+    font-family:Outfit;
+    color:rgb(160, 154, 154);
+}
+
+.tabtextred {
+    font-family:Outfit;
+    color:rgb(163, 13, 13);
+    font-weight:bold;
+}
